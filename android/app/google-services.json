@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353447051554",
+    "firebase_url": "https://corded-cortex-285511.firebaseio.com",
+    "project_id": "corded-cortex-285511",
+    "storage_bucket": "corded-cortex-285511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353447051554:android:f40bf253d6304415eaa57b",
+        "android_client_info": {
+          "package_name": "com.luna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353447051554-pvtp73cvit43hpe8795bhepikh6022io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luna",
+            "certificate_hash": "a16c3b3a936beb680103b3619799196c5ecffaf0"
+          }
+        },
+        {
+          "client_id": "353447051554-7rq1hu65bqiak9tujdc3k69pjvvihuou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrEP1qkgYUW1qKpdZjV4EwnCf7W_S_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353447051554-7rq1hu65bqiak9tujdc3k69pjvvihuou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

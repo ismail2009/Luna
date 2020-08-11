@@ -1,0 +1,13 @@
+export const AUTH_USER_PENDING_LOGIN = 'USER/AUTH_USER_PENDING/LOGIN';
+export const AUTH_USER_PENDING_REGISTER = 'USER/AUTH_USER_PENDING/REGISTER';
+export const AUTH_USER_PENDING_LOGIN_SOCIAL =
+  'USER/AUTH_USER_PENDING/LOGIN/SOCIAL';
+export const AUTH_USER_SUCCESS = 'USER/AUTH_USER_SUCCESS';
+export const AUTH_USER_REJECTED = 'USER/AUTH_USER_REJECTED';
+export const AUTH_USER_CLEAR = 'USER/AUTH_USER_CLEAR';
+/** ====================================================================== **/
+export const REQUEST_USER_DETAIL_PENDING = 'USER/REQUEST_USER_DETAIL_PENDING';
+export const REQUEST_USER_DETAIL_SUCCESS = 'USER/REQUEST_USER_DETAIL_SUCCESS';
+export const REQUEST_USER_DETAIL_REJECTED = 'USER/REQUEST_USER_DETAIL_REJECTED';
+/** ====================================================================== **/
+export const LOGOUT = 'USER/LOGOUT';

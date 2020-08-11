@@ -1,0 +1,7 @@
+{
+  "name": "Luna",
+  "displayName": "Luna",
+  "android": {
+    "package": "com.luna.luna"
+  }
+}

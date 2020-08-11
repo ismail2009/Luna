@@ -1,0 +1,1502 @@
+[
+  {
+    "code": "AD",
+    "label": "أندورا",
+    "value": "أندورا",
+    "dialCode": "+376"
+  },
+  {
+    "code": "AE",
+    "label": "الامارات العربية المتحدة",
+    "value": "الامارات العربية المتحدة",
+    "dialCode": "+971"
+  },
+  {
+    "code": "AF",
+    "label": "أفغانستان",
+    "value": "أفغانستان",
+    "dialCode": "+93"
+  },
+  {
+    "code": "AG",
+    "label": "أنتيجوا وبربودا",
+    "value": "أنتيجوا وبربودا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "AI",
+    "label": "أنجويلا",
+    "value": "أنجويلا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "AL",
+    "label": "ألبانيا",
+    "value": "ألبانيا",
+    "dialCode": "+355"
+  },
+  {
+    "code": "AM",
+    "label": "أرمينيا",
+    "value": "أرمينيا",
+    "dialCode": "+374"
+  },
+  {
+    "code": "AO",
+    "label": "أنجولا",
+    "value": "أنجولا",
+    "dialCode": "+244"
+  },
+  {
+    "code": "AQ",
+    "label": "القطب الجنوبي",
+    "value": "القطب الجنوبي",
+    "dialCode": "+672"
+  },
+  {
+    "code": "AR",
+    "label": "الأرجنتين",
+    "value": "الأرجنتين",
+    "dialCode": "+54"
+  },
+  {
+    "code": "AS",
+    "label": "ساموا الأمريكية",
+    "value": "ساموا الأمريكية",
+    "dialCode": "+1"
+  },
+  {
+    "code": "AT",
+    "label": "النمسا",
+    "value": "النمسا",
+    "dialCode": "+43"
+  },
+  {
+    "code": "AU",
+    "label": "أستراليا",
+    "value": "أستراليا",
+    "dialCode": "+61"
+  },
+  {
+    "code": "AW",
+    "label": "آروبا",
+    "value": "آروبا",
+    "dialCode": "+297"
+  },
+  {
+    "code": "AX",
+    "label": "جزر أولان",
+    "value": "جزر أولان",
+    "dialCode": "+358"
+  },
+  {
+    "code": "AZ",
+    "label": "أذربيجان",
+    "value": "أذربيجان",
+    "dialCode": "+994"
+  },
+  {
+    "code": "BA",
+    "label": "البوسنة والهرسك",
+    "value": "البوسنة والهرسك",
+    "dialCode": "+387"
+  },
+  {
+    "code": "BB",
+    "label": "بربادوس",
+    "value": "بربادوس",
+    "dialCode": "+1"
+  },
+  {
+    "code": "BD",
+    "label": "بنجلاديش",
+    "value": "بنجلاديش",
+    "dialCode": "+880"
+  },
+  {
+    "code": "BE",
+    "label": "بلجيكا",
+    "value": "بلجيكا",
+    "dialCode": "+32"
+  },
+  {
+    "code": "BF",
+    "label": "بوركينا فاسو",
+    "value": "بوركينا فاسو",
+    "dialCode": "+226"
+  },
+  {
+    "code": "BG",
+    "label": "بلغاريا",
+    "value": "بلغاريا",
+    "dialCode": "+359"
+  },
+  {
+    "code": "BH",
+    "label": "البحرين",
+    "value": "البحرين",
+    "dialCode": "+973"
+  },
+  {
+    "code": "BI",
+    "label": "بوروندي",
+    "value": "بوروندي",
+    "dialCode": "+257"
+  },
+  {
+    "code": "BJ",
+    "label": "بنين",
+    "value": "بنين",
+    "dialCode": "+229"
+  },
+  {
+    "code": "BL",
+    "label": "سان بارتيلمي",
+    "value": "سان بارتيلمي",
+    "dialCode": "+590"
+  },
+  {
+    "code": "BM",
+    "label": "برمودا",
+    "value": "برمودا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "BN",
+    "label": "بروناي",
+    "value": "بروناي",
+    "dialCode": "+673"
+  },
+  {
+    "code": "BO",
+    "label": "بوليفيا",
+    "value": "بوليفيا",
+    "dialCode": "+591"
+  },
+  {
+    "code": "BQ",
+    "label": "بونير",
+    "value": "بونير",
+    "dialCode": "+599"
+  },
+  {
+    "code": "BR",
+    "label": "البرازيل",
+    "value": "البرازيل",
+    "dialCode": "+55"
+  },
+  {
+    "code": "BS",
+    "label": "الباهاما",
+    "value": "الباهاما",
+    "dialCode": "+1"
+  },
+  {
+    "code": "BT",
+    "label": "بوتان",
+    "value": "بوتان",
+    "dialCode": "+975"
+  },
+  {
+    "code": "BV",
+    "label": "جزيرة بوفيه",
+    "value": "جزيرة بوفيه",
+    "dialCode": "+47"
+  },
+  {
+    "code": "BW",
+    "label": "بتسوانا",
+    "value": "بتسوانا",
+    "dialCode": "+267"
+  },
+  {
+    "code": "BY",
+    "label": "روسيا البيضاء",
+    "value": "روسيا البيضاء",
+    "dialCode": "+375"
+  },
+  {
+    "code": "BZ",
+    "label": "بليز",
+    "value": "بليز",
+    "dialCode": "+501"
+  },
+  {
+    "code": "CA",
+    "label": "كندا",
+    "value": "كندا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "CC",
+    "label": "جزر كوكوس",
+    "value": "جزر كوكوس",
+    "dialCode": "+61"
+  },
+  {
+    "code": "CD",
+    "label": "جمهورية الكونغو الديمقراطية",
+    "value": "جمهورية الكونغو الديمقراطية",
+    "dialCode": "+243"
+  },
+  {
+    "code": "CF",
+    "label": "جمهورية افريقيا الوسطى",
+    "value": "جمهورية افريقيا الوسطى",
+    "dialCode": "+236"
+  },
+  {
+    "code": "CG",
+    "label": "الكونغو - برازافيل",
+    "value": "الكونغو - برازافيل",
+    "dialCode": "+242"
+  },
+  {
+    "code": "CH",
+    "label": "سويسرا",
+    "value": "سويسرا",
+    "dialCode": "+41"
+  },
+  {
+    "code": "CI",
+    "label": "ساحل العاج",
+    "value": "ساحل العاج",
+    "dialCode": "+225"
+  },
+  {
+    "code": "CK",
+    "label": "جزر كوك",
+    "value": "جزر كوك",
+    "dialCode": "+682"
+  },
+  {
+    "code": "CL",
+    "label": "شيلي",
+    "value": "شيلي",
+    "dialCode": "+56"
+  },
+  {
+    "code": "CM",
+    "label": "الكاميرون",
+    "value": "الكاميرون",
+    "dialCode": "+237"
+  },
+  {
+    "code": "CN",
+    "label": "الصين",
+    "value": "الصين",
+    "dialCode": "+86"
+  },
+  {
+    "code": "CO",
+    "label": "كولومبيا",
+    "value": "كولومبيا",
+    "dialCode": "+57"
+  },
+  {
+    "code": "CR",
+    "label": "كوستاريكا",
+    "value": "كوستاريكا",
+    "dialCode": "+506"
+  },
+  {
+    "code": "CU",
+    "label": "كوبا",
+    "value": "كوبا",
+    "dialCode": "+53"
+  },
+  {
+    "code": "CV",
+    "label": "الرأس الأخضر",
+    "value": "الرأس الأخضر",
+    "dialCode": "+238"
+  },
+  {
+    "code": "CW",
+    "label": "كوراساو",
+    "value": "كوراساو",
+    "dialCode": "+599"
+  },
+  {
+    "code": "CX",
+    "label": "جزيرة الكريسماس",
+    "value": "جزيرة الكريسماس",
+    "dialCode": "+61"
+  },
+  {
+    "code": "CY",
+    "label": "قبرص",
+    "value": "قبرص",
+    "dialCode": "+357"
+  },
+  {
+    "code": "CZ",
+    "label": "جمهورية التشيك",
+    "value": "جمهورية التشيك",
+    "dialCode": "+420"
+  },
+  {
+    "code": "DE",
+    "label": "ألمانيا",
+    "value": "ألمانيا",
+    "dialCode": "+49"
+  },
+  {
+    "code": "DJ",
+    "label": "جيبوتي",
+    "value": "جيبوتي",
+    "dialCode": "+253"
+  },
+  {
+    "code": "DK",
+    "label": "الدانمرك",
+    "value": "الدانمرك",
+    "dialCode": "+45"
+  },
+  {
+    "code": "DM",
+    "label": "دومينيكا",
+    "value": "دومينيكا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "DO",
+    "label": "جمهورية الدومينيك",
+    "value": "جمهورية الدومينيك",
+    "dialCode": "+1"
+  },
+  {
+    "code": "DZ",
+    "label": "الجزائر",
+    "value": "الجزائر",
+    "dialCode": "+213"
+  },
+  {
+    "code": "EC",
+    "label": "الاكوادور",
+    "value": "الاكوادور",
+    "dialCode": "+593"
+  },
+  {
+    "code": "EE",
+    "label": "استونيا",
+    "value": "استونيا",
+    "dialCode": "+372"
+  },
+  {
+    "code": "EG",
+    "label": "مصر",
+    "value": "مصر",
+    "dialCode": "+20"
+  },
+  {
+    "code": "EH",
+    "label": "الصحراء الغربية",
+    "value": "الصحراء الغربية",
+    "dialCode": "+212"
+  },
+  {
+    "code": "ER",
+    "label": "اريتريا",
+    "value": "اريتريا",
+    "dialCode": "+291"
+  },
+  {
+    "code": "ES",
+    "label": "أسبانيا",
+    "value": "أسبانيا",
+    "dialCode": "+34"
+  },
+  {
+    "code": "ET",
+    "label": "اثيوبيا",
+    "value": "اثيوبيا",
+    "dialCode": "+251"
+  },
+  {
+    "code": "FI",
+    "label": "فنلندا",
+    "value": "فنلندا",
+    "dialCode": "+358"
+  },
+  {
+    "code": "FJ",
+    "label": "فيجي",
+    "value": "فيجي",
+    "dialCode": "+679"
+  },
+  {
+    "code": "FK",
+    "label": "جزر فوكلاند",
+    "value": "جزر فوكلاند",
+    "dialCode": "+500"
+  },
+  {
+    "code": "FM",
+    "label": "ميكرونيزيا",
+    "value": "ميكرونيزيا",
+    "dialCode": "+691"
+  },
+  {
+    "code": "FO",
+    "label": "جزر فارو",
+    "value": "جزر فارو",
+    "dialCode": "+298"
+  },
+  {
+    "code": "FR",
+    "label": "فرنسا",
+    "value": "فرنسا",
+    "dialCode": "+33"
+  },
+  {
+    "code": "GA",
+    "label": "الجابون",
+    "value": "الجابون",
+    "dialCode": "+241"
+  },
+  {
+    "code": "GB",
+    "label": "المملكة المتحدة",
+    "value": "المملكة المتحدة",
+    "dialCode": "+44"
+  },
+  {
+    "code": "GD",
+    "label": "جرينادا",
+    "value": "جرينادا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "GE",
+    "label": "جورجيا",
+    "value": "جورجيا",
+    "dialCode": "+995"
+  },
+  {
+    "code": "GF",
+    "label": "غويانا",
+    "value": "غويانا",
+    "dialCode": "+594"
+  },
+  {
+    "code": "GG",
+    "label": "غيرنزي",
+    "value": "غيرنزي",
+    "dialCode": "+44"
+  },
+  {
+    "code": "GH",
+    "label": "غانا",
+    "value": "غانا",
+    "dialCode": "+233"
+  },
+  {
+    "code": "GI",
+    "label": "جبل طارق",
+    "value": "جبل طارق",
+    "dialCode": "+350"
+  },
+  {
+    "code": "GL",
+    "label": "جرينلاند",
+    "value": "جرينلاند",
+    "dialCode": "+299"
+  },
+  {
+    "code": "GM",
+    "label": "غامبيا",
+    "value": "غامبيا",
+    "dialCode": "+220"
+  },
+  {
+    "code": "GN",
+    "label": "غينيا",
+    "value": "غينيا",
+    "dialCode": "+224"
+  },
+  {
+    "code": "GP",
+    "label": "جوادلوب",
+    "value": "جوادلوب",
+    "dialCode": "+590"
+  },
+  {
+    "code": "GQ",
+    "label": "غينيا الاستوائية",
+    "value": "غينيا الاستوائية",
+    "dialCode": "+240"
+  },
+  {
+    "code": "GR",
+    "label": "اليونان",
+    "value": "اليونان",
+    "dialCode": "+30"
+  },
+  {
+    "code": "GS",
+    "label": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "value": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "dialCode": "+500"
+  },
+  {
+    "code": "GT",
+    "label": "جواتيمالا",
+    "value": "جواتيمالا",
+    "dialCode": "+502"
+  },
+  {
+    "code": "GU",
+    "label": "جوام",
+    "value": "جوام",
+    "dialCode": "+1"
+  },
+  {
+    "code": "GW",
+    "label": "غينيا بيساو",
+    "value": "غينيا بيساو",
+    "dialCode": "+245"
+  },
+  {
+    "code": "GY",
+    "label": "غيانا",
+    "value": "غيانا",
+    "dialCode": "+595"
+  },
+  {
+    "code": "HK",
+    "label": "هونج كونج الصينية",
+    "value": "هونج كونج الصينية",
+    "dialCode": "+852"
+  },
+  {
+    "code": "HM",
+    "label": "جزيرة هيرد وماكدونالد",
+    "value": "جزيرة هيرد وماكدونالد",
+    "dialCode": ""
+  },
+  {
+    "code": "HN",
+    "label": "هندوراس",
+    "value": "هندوراس",
+    "dialCode": "+504"
+  },
+  {
+    "code": "HR",
+    "label": "كرواتيا",
+    "value": "كرواتيا",
+    "dialCode": "+385"
+  },
+  {
+    "code": "HT",
+    "label": "هايتي",
+    "value": "هايتي",
+    "dialCode": "+509"
+  },
+  {
+    "code": "HU",
+    "label": "المجر",
+    "value": "المجر",
+    "dialCode": "+36"
+  },
+  {
+    "code": "ID",
+    "label": "اندونيسيا",
+    "value": "اندونيسيا",
+    "dialCode": "+62"
+  },
+  {
+    "code": "IE",
+    "label": "أيرلندا",
+    "value": "أيرلندا",
+    "dialCode": "+353"
+  },
+  {
+    "code": "IL",
+    "label": "اسرائيل",
+    "value": "اسرائيل",
+    "dialCode": "+972"
+  },
+  {
+    "code": "IM",
+    "label": "جزيرة مان",
+    "value": "جزيرة مان",
+    "dialCode": "+44"
+  },
+  {
+    "code": "IN",
+    "label": "الهند",
+    "value": "الهند",
+    "dialCode": "+91"
+  },
+  {
+    "code": "IO",
+    "label": "المحيط الهندي البريطاني",
+    "value": "المحيط الهندي البريطاني",
+    "dialCode": "+246"
+  },
+  {
+    "code": "IQ",
+    "label": "العراق",
+    "value": "العراق",
+    "dialCode": "+964"
+  },
+  {
+    "code": "IR",
+    "label": "ايران",
+    "value": "ايران",
+    "dialCode": "+98"
+  },
+  {
+    "code": "IS",
+    "label": "أيسلندا",
+    "value": "أيسلندا",
+    "dialCode": "+354"
+  },
+  {
+    "code": "IT",
+    "label": "ايطاليا",
+    "value": "ايطاليا",
+    "dialCode": "+39"
+  },
+  {
+    "code": "JE",
+    "label": "جيرسي",
+    "value": "جيرسي",
+    "dialCode": "+44"
+  },
+  {
+    "code": "JM",
+    "label": "جامايكا",
+    "value": "جامايكا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "JO",
+    "label": "الأردن",
+    "value": "الأردن",
+    "dialCode": "+962"
+  },
+  {
+    "code": "JP",
+    "label": "اليابان",
+    "value": "اليابان",
+    "dialCode": "+81"
+  },
+  {
+    "code": "KE",
+    "label": "كينيا",
+    "value": "كينيا",
+    "dialCode": "+254"
+  },
+  {
+    "code": "KG",
+    "label": "قرغيزستان",
+    "value": "قرغيزستان",
+    "dialCode": "+996"
+  },
+  {
+    "code": "KH",
+    "label": "كمبوديا",
+    "value": "كمبوديا",
+    "dialCode": "+855"
+  },
+  {
+    "code": "KI",
+    "label": "كيريباتي",
+    "value": "كيريباتي",
+    "dialCode": "+686"
+  },
+  {
+    "code": "KM",
+    "label": "جزر القمر",
+    "value": "جزر القمر",
+    "dialCode": "+269"
+  },
+  {
+    "code": "KN",
+    "label": "سانت كيتس ونيفيس",
+    "value": "سانت كيتس ونيفيس",
+    "dialCode": "+1"
+  },
+  {
+    "code": "KP",
+    "label": "كوريا الشمالية",
+    "value": "كوريا الشمالية",
+    "dialCode": "+850"
+  },
+  {
+    "code": "KR",
+    "label": "كوريا الجنوبية",
+    "value": "كوريا الجنوبية",
+    "dialCode": "+82"
+  },
+  {
+    "code": "KW",
+    "label": "الكويت",
+    "value": "الكويت",
+    "dialCode": "+965"
+  },
+  {
+    "code": "KY",
+    "label": "جزر الكايمن",
+    "value": "جزر الكايمن",
+    "dialCode": "+345"
+  },
+  {
+    "code": "KZ",
+    "label": "كازاخستان",
+    "value": "كازاخستان",
+    "dialCode": "+7"
+  },
+  {
+    "code": "LA",
+    "label": "لاوس",
+    "value": "لاوس",
+    "dialCode": "+856"
+  },
+  {
+    "code": "LB",
+    "label": "لبنان",
+    "value": "لبنان",
+    "dialCode": "+961"
+  },
+  {
+    "code": "LC",
+    "label": "سانت لوسيا",
+    "value": "سانت لوسيا",
+    "dialCode": "+1"
+  },
+  {
+    "code": "LI",
+    "label": "ليختنشتاين",
+    "value": "ليختنشتاين",
+    "dialCode": "+423"
+  },
+  {
+    "code": "LK",
+    "label": "سريلانكا",
+    "value": "سريلانكا",
+    "dialCode": "+94"
+  },
+  {
+    "code": "LR",
+    "label": "ليبيريا",
+    "value": "ليبيريا",
+    "dialCode": "+231"
+  },
+  {
+    "code": "LS",
+    "label": "ليسوتو",
+    "value": "ليسوتو",
+    "dialCode": "+266"
+  },
+  {
+    "code": "LT",
+    "label": "ليتوانيا",
+    "value": "ليتوانيا",
+    "dialCode": "+370"
+  },
+  {
+    "code": "LU",
+    "label": "لوكسمبورج",
+    "value": "لوكسمبورج",
+    "dialCode": "+352"
+  },
+  {
+    "code": "LV",
+    "label": "لاتفيا",
+    "value": "لاتفيا",
+    "dialCode": "+371"
+  },
+  {
+    "code": "LY",
+    "label": "ليبيا",
+    "value": "ليبيا",
+    "dialCode": "+218"
+  },
+  {
+    "code": "MA",
+    "label": "المغرب",
+    "value": "المغرب",
+    "dialCode": "+212"
+  },
+  {
+    "code": "MC",
+    "label": "موناكو",
+    "value": "موناكو",
+    "dialCode": "+377"
+  },
+  {
+    "code": "MD",
+    "label": "مولدافيا",
+    "value": "مولدافيا",
+    "dialCode": "+373"
+  },
+  {
+    "code": "ME",
+    "label": "الجبل الأسود",
+    "value": "الجبل الأسود",
+    "dialCode": "+382"
+  },
+  {
+    "code": "MF",
+    "label": "سانت مارتين",
+    "value": "سانت مارتين",
+    "dialCode": "+590"
+  },
+  {
+    "code": "MG",
+    "label": "مدغشقر",
+    "value": "مدغشقر",
+    "dialCode": "+261"
+  },
+  {
+    "code": "MH",
+    "label": "جزر المارشال",
+    "value": "جزر المارشال",
+    "dialCode": "+692"
+  },
+  {
+    "code": "MK",
+    "label": "مقدونيا",
+    "value": "مقدونيا",
+    "dialCode": "+389"
+  },
+  {
+    "code": "ML",
+    "label": "مالي",
+    "value": "مالي",
+    "dialCode": "+223"
+  },
+  {
+    "code": "MM",
+    "label": "ميانمار",
+    "value": "ميانمار",
+    "dialCode": "+95"
+  },
+  {
+    "code": "MN",
+    "label": "منغوليا",
+    "value": "منغوليا",
+    "dialCode": "+976"
+  },
+  {
+    "code": "MO",
+    "label": "ماكاو الصينية",
+    "value": "ماكاو الصينية",
+    "dialCode": "+853"
+  },
+  {
+    "code": "MP",
+    "label": "جزر ماريانا الشمالية",
+    "value": "جزر ماريانا الشمالية",
+    "dialCode": "+1"
+  },
+  {
+    "code": "MQ",
+    "label": "مارتينيك",
+    "value": "مارتينيك",
+    "dialCode": "+596"
+  },
+  {
+    "code": "MR",
+    "label": "موريتانيا",
+    "value": "موريتانيا",
+    "dialCode": "+222"
+  },
+  {
+    "code": "MS",
+    "label": "مونتسرات",
+    "value": "مونتسرات",
+    "dialCode": "+1"
+  },
+  {
+    "code": "MT",
+    "label": "مالطا",
+    "value": "مالطا",
+    "dialCode": "+356"
+  },
+  {
+    "code": "MU",
+    "label": "موريشيوس",
+    "value": "موريشيوس",
+    "dialCode": "+230"
+  },
+  {
+    "code": "MV",
+    "label": "جزر الملديف",
+    "value": "جزر الملديف",
+    "dialCode": "+960"
+  },
+  {
+    "code": "MW",
+    "label": "ملاوي",
+    "value": "ملاوي",
+    "dialCode": "+265"
+  },
+  {
+    "code": "MX",
+    "label": "المكسيك",
+    "value": "المكسيك",
+    "dialCode": "+52"
+  },
+  {
+    "code": "MY",
+    "label": "ماليزيا",
+    "value": "ماليزيا",
+    "dialCode": "+60"
+  },
+  {
+    "code": "MZ",
+    "label": "موزمبيق",
+    "value": "موزمبيق",
+    "dialCode": "+258"
+  },
+  {
+    "code": "NA",
+    "label": "ناميبيا",
+    "value": "ناميبيا",
+    "dialCode": "+264"
+  },
+  {
+    "code": "NC",
+    "label": "كاليدونيا الجديدة",
+    "value": "كاليدونيا الجديدة",
+    "dialCode": "+687"
+  },
+  {
+    "code": "NE",
+    "label": "النيجر",
+    "value": "النيجر",
+    "dialCode": "+227"
+  },
+  {
+    "code": "NF",
+    "label": "جزيرة نورفوك",
+    "value": "جزيرة نورفوك",
+    "dialCode": "+672"
+  },
+  {
+    "code": "NG",
+    "label": "نيجيريا",
+    "value": "نيجيريا",
+    "dialCode": "+234"
+  },
+  {
+    "code": "NI",
+    "label": "نيكاراجوا",
+    "value": "نيكاراجوا",
+    "dialCode": "+505"
+  },
+  {
+    "code": "NL",
+    "label": "هولندا",
+    "value": "هولندا",
+    "dialCode": "+31"
+  },
+  {
+    "code": "NO",
+    "label": "النرويج",
+    "value": "النرويج",
+    "dialCode": "+47"
+  },
+  {
+    "code": "NP",
+    "label": "نيبال",
+    "value": "نيبال",
+    "dialCode": "+977"
+  },
+  {
+    "code": "NR",
+    "label": "نورو",
+    "value": "نورو",
+    "dialCode": "+674"
+  },
+  {
+    "code": "NU",
+    "label": "نيوي",
+    "value": "نيوي",
+    "dialCode": "+683"
+  },
+  {
+    "code": "NZ",
+    "label": "نيوزيلاندا",
+    "value": "نيوزيلاندا",
+    "dialCode": "+64"
+  },
+  {
+    "code": "OM",
+    "label": "عمان",
+    "value": "عمان",
+    "dialCode": "+968"
+  },
+  {
+    "code": "PA",
+    "label": "بنما",
+    "value": "بنما",
+    "dialCode": "+507"
+  },
+  {
+    "code": "PE",
+    "label": "بيرو",
+    "value": "بيرو",
+    "dialCode": "+51"
+  },
+  {
+    "code": "PF",
+    "label": "بولينيزيا الفرنسية",
+    "value": "بولينيزيا الفرنسية",
+    "dialCode": "+689"
+  },
+  {
+    "code": "PG",
+    "label": "بابوا غينيا الجديدة",
+    "value": "بابوا غينيا الجديدة",
+    "dialCode": "+675"
+  },
+  {
+    "code": "PH",
+    "label": "الفيلبين",
+    "value": "الفيلبين",
+    "dialCode": "+63"
+  },
+  {
+    "code": "PK",
+    "label": "باكستان",
+    "value": "باكستان",
+    "dialCode": "+92"
+  },
+  {
+    "code": "PL",
+    "label": "بولندا",
+    "value": "بولندا",
+    "dialCode": "+48"
+  },
+  {
+    "code": "PM",
+    "label": "سانت بيير وميكولون",
+    "value": "سانت بيير وميكولون",
+    "dialCode": "+508"
+  },
+  {
+    "code": "PN",
+    "label": "بتكايرن",
+    "value": "بتكايرن",
+    "dialCode": "+872"
+  },
+  {
+    "code": "PR",
+    "label": "بورتوريكو",
+    "value": "بورتوريكو",
+    "dialCode": "+1"
+  },
+  {
+    "code": "PS",
+    "label": "فلسطين",
+    "value": "فلسطين",
+    "dialCode": "+970"
+  },
+  {
+    "code": "PT",
+    "label": "البرتغال",
+    "value": "البرتغال",
+    "dialCode": "+351"
+  },
+  {
+    "code": "PW",
+    "label": "بالاو",
+    "value": "بالاو",
+    "dialCode": "+680"
+  },
+  {
+    "code": "PY",
+    "label": "باراجواي",
+    "value": "باراجواي",
+    "dialCode": "+595"
+  },
+  {
+    "code": "QA",
+    "label": "قطر",
+    "value": "قطر",
+    "dialCode": "+974"
+  },
+  {
+    "code": "RE",
+    "label": "روينيون",
+    "value": "روينيون",
+    "dialCode": "+262"
+  },
+  {
+    "code": "RO",
+    "label": "رومانيا",
+    "value": "رومانيا",
+    "dialCode": "+40"
+  },
+  {
+    "code": "RS",
+    "label": "صربيا",
+    "value": "صربيا",
+    "dialCode": "+381"
+  },
+  {
+    "code": "RU",
+    "label": "روسيا",
+    "value": "روسيا",
+    "dialCode": "+7"
+  },
+  {
+    "code": "RW",
+    "label": "رواندا",
+    "value": "رواندا",
+    "dialCode": "+250"
+  },
+  {
+    "code": "SA",
+    "label": "المملكة العربية السعودية",
+    "value": "المملكة العربية السعودية",
+    "dialCode": "+966"
+  },
+  {
+    "code": "SB",
+    "label": "جزر سليمان",
+    "value": "جزر سليمان",
+    "dialCode": "+677"
+  },
+  {
+    "code": "SC",
+    "label": "سيشل",
+    "value": "سيشل",
+    "dialCode": "+248"
+  },
+  {
+    "code": "SD",
+    "label": "السودان",
+    "value": "السودان",
+    "dialCode": "+249"
+  },
+  {
+    "code": "SE",
+    "label": "السويد",
+    "value": "السويد",
+    "dialCode": "+46"
+  },
+  {
+    "code": "SG",
+    "label": "سنغافورة",
+    "value": "سنغافورة",
+    "dialCode": "+65"
+  },
+  {
+    "code": "SH",
+    "label": "سانت هيلنا",
+    "value": "سانت هيلنا",
+    "dialCode": "+290"
+  },
+  {
+    "code": "SI",
+    "label": "سلوفينيا",
+    "value": "سلوفينيا",
+    "dialCode": "+386"
+  },
+  {
+    "code": "SJ",
+    "label": "سفالبارد وجان مايان",
+    "value": "سفالبارد وجان مايان",
+    "dialCode": "+47"
+  },
+  {
+    "code": "SK",
+    "label": "سلوفاكيا",
+    "value": "سلوفاكيا",
+    "dialCode": "+421"
+  },
+  {
+    "code": "SL",
+    "label": "سيراليون",
+    "value": "سيراليون",
+    "dialCode": "+232"
+  },
+  {
+    "code": "SM",
+    "label": "سان مارينو",
+    "value": "سان مارينو",
+    "dialCode": "+378"
+  },
+  {
+    "code": "SN",
+    "label": "السنغال",
+    "value": "السنغال",
+    "dialCode": "+221"
+  },
+  {
+    "code": "SO",
+    "label": "الصومال",
+    "value": "الصومال",
+    "dialCode": "+252"
+  },
+  {
+    "code": "SR",
+    "label": "سورينام",
+    "value": "سورينام",
+    "dialCode": "+597"
+  },
+  {
+    "code": "SS",
+    "label": "جنوب السودان",
+    "value": "جنوب السودان",
+    "dialCode": "+211"
+  },
+  {
+    "code": "ST",
+    "label": "ساو تومي وبرينسيبي",
+    "value": "ساو تومي وبرينسيبي",
+    "dialCode": "+239"
+  },
+  {
+    "code": "SV",
+    "label": "السلفادور",
+    "value": "السلفادور",
+    "dialCode": "+503"
+  },
+  {
+    "code": "SX",
+    "label": "سينت مارتن",
+    "value": "سينت مارتن",
+    "dialCode": "+1"
+  },
+  {
+    "code": "SY",
+    "label": "سوريا",
+    "value": "سوريا",
+    "dialCode": "+963"
+  },
+  {
+    "code": "SZ",
+    "label": "سوازيلاند",
+    "value": "سوازيلاند",
+    "dialCode": "+268"
+  },
+  {
+    "code": "TC",
+    "label": "جزر الترك وجايكوس",
+    "value": "جزر الترك وجايكوس",
+    "dialCode": "+1"
+  },
+  {
+    "code": "TD",
+    "label": "تشاد",
+    "value": "تشاد",
+    "dialCode": "+235"
+  },
+  {
+    "code": "TF",
+    "label": "المقاطعات الجنوبية الفرنسية",
+    "value": "المقاطعات الجنوبية الفرنسية",
+    "dialCode": "+262"
+  },
+  {
+    "code": "TG",
+    "label": "توجو",
+    "value": "توجو",
+    "dialCode": "+228"
+  },
+  {
+    "code": "TH",
+    "label": "تايلند",
+    "value": "تايلند",
+    "dialCode": "+66"
+  },
+  {
+    "code": "TJ",
+    "label": "طاجكستان",
+    "value": "طاجكستان",
+    "dialCode": "+992"
+  },
+  {
+    "code": "TK",
+    "label": "توكيلو",
+    "value": "توكيلو",
+    "dialCode": "+690"
+  },
+  {
+    "code": "TL",
+    "label": "تيمور الشرقية",
+    "value": "تيمور الشرقية",
+    "dialCode": "+670"
+  },
+  {
+    "code": "TM",
+    "label": "تركمانستان",
+    "value": "تركمانستان",
+    "dialCode": "+993"
+  },
+  {
+    "code": "TN",
+    "label": "تونس",
+    "value": "تونس",
+    "dialCode": "+216"
+  },
+  {
+    "code": "TO",
+    "label": "تونجا",
+    "value": "تونجا",
+    "dialCode": "+676"
+  },
+  {
+    "code": "TR",
+    "label": "تركيا",
+    "value": "تركيا",
+    "dialCode": "+90"
+  },
+  {
+    "code": "TT",
+    "label": "ترينيداد وتوباغو",
+    "value": "ترينيداد وتوباغو",
+    "dialCode": "+1"
+  },
+  {
+    "code": "TV",
+    "label": "توفالو",
+    "value": "توفالو",
+    "dialCode": "+688"
+  },
+  {
+    "code": "TW",
+    "label": "تايوان",
+    "value": "تايوان",
+    "dialCode": "+886"
+  },
+  {
+    "code": "TZ",
+    "label": "تانزانيا",
+    "value": "تانزانيا",
+    "dialCode": "+255"
+  },
+  {
+    "code": "UA",
+    "label": "أوكرانيا",
+    "value": "أوكرانيا",
+    "dialCode": "+380"
+  },
+  {
+    "code": "UG",
+    "label": "أوغندا",
+    "value": "أوغندا",
+    "dialCode": "+256"
+  },
+  {
+    "code": "UM",
+    "label": "جزر الولايات المتحدة البعيدة الصغيرة",
+    "value": "جزر الولايات المتحدة البعيدة الصغيرة",
+    "dialCode": ""
+  },
+  {
+    "code": "US",
+    "label": "الولايات المتحدة الأمريكية",
+    "value": "الولايات المتحدة الأمريكية",
+    "dialCode": "+1"
+  },
+  {
+    "code": "UY",
+    "label": "أورجواي",
+    "value": "أورجواي",
+    "dialCode": "+598"
+  },
+  {
+    "code": "UZ",
+    "label": "أوزبكستان",
+    "value": "أوزبكستان",
+    "dialCode": "+998"
+  },
+  {
+    "code": "VA",
+    "label": "الفاتيكان",
+    "value": "الفاتيكان",
+    "dialCode": "+379"
+  },
+  {
+    "code": "VC",
+    "label": "سانت فنسنت وغرنادين",
+    "value": "سانت فنسنت وغرنادين",
+    "dialCode": "+1"
+  },
+  {
+    "code": "VE",
+    "label": "فنزويلا",
+    "value": "فنزويلا",
+    "dialCode": "+58"
+  },
+  {
+    "code": "VG",
+    "label": "جزر فرجين البريطانية",
+    "value": "جزر فرجين البريطانية",
+    "dialCode": "+1"
+  },
+  {
+    "code": "VI",
+    "label": "جزر فرجين الأمريكية",
+    "value": "جزر فرجين الأمريكية",
+    "dialCode": "+1"
+  },
+  {
+    "code": "VN",
+    "label": "فيتنام",
+    "value": "فيتنام",
+    "dialCode": "+84"
+  },
+  {
+    "code": "VU",
+    "label": "فانواتو",
+    "value": "فانواتو",
+    "dialCode": "+678"
+  },
+  {
+    "code": "WF",
+    "label": "جزر والس وفوتونا",
+    "value": "جزر والس وفوتونا",
+    "dialCode": "+681"
+  },
+  {
+    "code": "WS",
+    "label": "ساموا",
+    "value": "ساموا",
+    "dialCode": "+685"
+  },
+  {
+    "code": "XK",
+    "label": "كوسوفو",
+    "value": "كوسوفو",
+    "dialCode": "+383"
+  },
+  {
+    "code": "YE",
+    "label": "اليمن",
+    "value": "اليمن",
+    "dialCode": "+967"
+  },
+  {
+    "code": "YT",
+    "label": "مايوت",
+    "value": "مايوت",
+    "dialCode": "+262"
+  },
+  {
+    "code": "ZA",
+    "label": "جمهورية جنوب افريقيا",
+    "value": "جمهورية جنوب افريقيا",
+    "dialCode": "+27"
+  },
+  {
+    "code": "ZM",
+    "label": "زامبيا",
+    "value": "زامبيا",
+    "dialCode": "+260"
+  },
+  {
+    "code": "ZW",
+    "label": "زيمبابوي",
+    "value": "زيمبابوي",
+    "dialCode": "+263"
+  }
+]
