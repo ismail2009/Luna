@@ -1,6 +1,9 @@
-`grep -rl "s.dependency 'React/Core'" node_modules/ | xargs sed -i '' 's=React/Core=React-Core=g'`
-
-Do dome changes at this path /node_modules/react-native-cached-images/CachedImage.js
+## Luna App
+#### Steps to run the project 
+- First you should do: 
+    - yarn or npm install 
+    - npx pod-install for ios
+    - Do some changes at this path RootDir/node_modules/react-native-cached-images/CachedImage.js
 ```
 componentWillMount() {
      this._isMounted = true;
@@ -40,3 +43,5 @@ componentWillMount() {
       // );
      this.unsubscribe()
    }
+```
+    - yarn ios or yarn android
